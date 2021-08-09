@@ -1,0 +1,24 @@
+{
+  "name": "academy_automation",
+  "version": "1.0.0",
+  "description": "next line\r another line\r one more line",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "@playwright/test": "^1.13.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vaida-janilione/academy_automation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vaida-janilione/academy_automation/issues"
+  },
+  "homepage": "https://github.com/vaida-janilione/academy_automation#readme"
+}
